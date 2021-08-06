@@ -41,7 +41,7 @@ if k == 2:
     if c == 3:
       print("launching nmap full scan")
       print("enter your target ip address:")
-      victim == input()
+      victim = input()
       os.system(f"sudo nmap -A {victim}") 
   if x == 2:
     print("launching setoolkit !")
