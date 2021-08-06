@@ -36,13 +36,13 @@ if k == 2:
     if c == 2:
       print("launching nmap sleathy scan !")
       print("enter your target ip address:")
-      victim = input()
-      os.system(f"sudo nmap -sS {victim}")  
+      victim2 = input()
+      os.system(f"sudo nmap -sS {victim2}")  
     if c == 3:
       print("launching nmap full scan")
       print("enter your target ip address:")
-      victim = input()
-      os.system(f"sudo nmap -A {victim}") 
+      victim3 = input()
+      os.system(f"sudo nmap -A {victim3}") 
   if x == 2:
     print("launching setoolkit !")
     os.system("sudo setoolkit")
