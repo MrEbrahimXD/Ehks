@@ -17,4 +17,13 @@ sudo apt install wireshark -y
 sudo apt install ettercap -y
 
 *********************************************
+TO use it :
+
+~$  cd Ehks
+
+~$  ls
+
+~$  sudo python3 Ehks
+
+*********************************************
 
