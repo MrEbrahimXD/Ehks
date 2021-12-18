@@ -8,13 +8,7 @@ WARNING : Dont use this tool to hack anyone or anybody without premission , only
 *********************************************
 sudo apt update
 
-sudo apt install nmap -y
-
 sudo apt install python3 -y
-
-sudo apt install wireshark -y
-
-sudo apt install ettercap -y
 
 *********************************************
 TO use it :
@@ -23,7 +17,7 @@ TO use it :
 
 ~$  ls
 
-~$  sudo python3 Ehks
+~$  sudo python3 Ehks.py
 
 *********************************************
 
