@@ -1,6 +1,8 @@
 import os
 from sys import intern
-
+## MY FIRST EVER CODE IN MY LIFE 2020-4-10 IN MY BIRTHDAY 
+## UPLOADED 2021
+## LOVE YOU PROGRAMMING 
 
 print(" /$$$$$$$$ /$$       /$$                ")
 print("| $$_____/| $$      | $$                ")
